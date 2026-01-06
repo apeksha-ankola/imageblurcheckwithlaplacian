@@ -1,1 +1,5 @@
 # pip install flask opencv-python numpy
+fastapi
+uvicorn
+opencv-python-headless
+numpy
